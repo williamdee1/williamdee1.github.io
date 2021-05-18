@@ -450,7 +450,7 @@ button:hover {
 }
 
 .service-item:hover .first-service-icon {
-    background-image: url(../images/first-main-icon.png);
+    background-image: url(../images/bulb_main_icon.png);
 }
 
 .service-item .second-service-icon {
@@ -462,11 +462,11 @@ button:hover {
 }
 
 .service-item .third-service-icon {
-    background-image: url(../images/third-white-icon.png);
+    background-image: url(../images/gears_white_icon.png);
 }
 
 .service-item:hover .third-service-icon {
-    background-image: url(../images/third-main-icon.png);
+    background-image: url(../images/gears_main_icon.png);
 }
 
 .service-item .fourth-service-icon {
