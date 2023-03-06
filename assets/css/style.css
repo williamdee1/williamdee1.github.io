@@ -532,7 +532,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/author_img.png") center center no-repeat;
+  background: url("../img/author_img.PNG") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
